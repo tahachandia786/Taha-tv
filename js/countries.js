@@ -37,8 +37,8 @@ const Countries = (() => {
 
   // Popular countries shown in initial tab list
   const popular = [
-    'in', 'us', 'gb', 'ca', 'au', 'de', 'fr', 'it', 'es', 'br',
-    'mx', 'jp', 'kr', 'cn', 'ru', 'ae', 'sa', 'tr', 'pk', 'bd',
+    'pk', 'us', 'gb', 'ca', 'au', 'de', 'fr', 'it', 'es', 'br',
+    'mx', 'jp', 'kr', 'cn', 'ru', 'ae', 'sa', 'tr', 'in', 'bd',
     'ng', 'eg', 'za', 'ph', 'id', 'th', 'vn', 'pl', 'nl', 'pt',
     'ar', 'co', 'cl', 'ro', 'ua', 'se', 'no', 'dk', 'fi', 'gr'
   ];
